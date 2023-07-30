@@ -6,8 +6,7 @@ The NPN Registration Form is a web application that allows users to register as 
 - [Features]
 - [Prerequisites]
 - [Installation]
-- [Usage]![Screenshot (141)](https://github.com/louisafful1/NPN-Registration-Form/assets/123727115/904a82ae-52c0-4114-9e9e-8423b7c96a58)
-
+- [Usage]
 - [Contributing]
 - [License]
 
