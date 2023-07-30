@@ -40,8 +40,8 @@ Select your gender using the radio buttons.
 
 Click the "Submit" button to register. Your registration data will be sent via email.
 
-Contributing
+## Contributing
 Contributions to the NPN Registration Form are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
