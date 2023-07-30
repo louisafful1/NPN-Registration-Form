@@ -9,6 +9,7 @@ The NPN Registration Form is a web application that allows users to register as 
 - [Usage]
 - [Contributing]
 - [License]
+- [Contact]
 
 ## Features
 
@@ -45,3 +46,7 @@ Contributions to the NPN Registration Form are welcome! If you find any issues o
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+
+## Contact
+
+If you have any questions or feedback, please feel free to contact me at [louisafful1@gmail.com].
